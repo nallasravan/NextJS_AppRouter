@@ -3,7 +3,7 @@ export default function Home() {
     
     <div className="text-center py-20">
       <h1 className="text-5xl md:text-6xl font-bold text-cyan-400 mb-6">
-        Welcome Home!
+        Welcome Home! app router
       </h1>
       <p className="text-xl text-gray-300 mb-8">
         Zero inline styles. Pure Tailwind CSS magic.

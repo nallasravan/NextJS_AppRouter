@@ -8,7 +8,7 @@ npm install next@15
 
 ```bash
 npm run dev
-# or
+# ornpm install next@15
 yarn dev
 # or
 pnpm dev
